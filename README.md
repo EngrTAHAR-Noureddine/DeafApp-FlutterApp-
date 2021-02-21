@@ -1,4 +1,4 @@
-# deafapplication
+# Deafapplication
 
 A new Flutter application.
 
